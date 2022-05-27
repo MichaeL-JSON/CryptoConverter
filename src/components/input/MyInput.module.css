@@ -1,0 +1,13 @@
+.MyInput{
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    height: 45px;
+    margin: 0px 10px 0px 0px;
+    background: transparent;
+    padding: 0 17px;
+    border-radius: 4px;
+    outline: none;
+    color: #ffffffd9;
+    border: 1px solid #164a83;
+  }
